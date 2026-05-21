@@ -1,1 +1,1 @@
-console.log("Hola profee, no somos tan burros")
+console.log("Holis Danna")
